@@ -1,4 +1,4 @@
-# Simple GitHub Prqactice
+# Simple GitHub Practice
 
 ## Commands practiced
 
